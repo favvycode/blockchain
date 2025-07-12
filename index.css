@@ -948,7 +948,7 @@ ol::after {
 }
 
 .link > .buttonzz{
-  display: none;
+  display: flex;
 }
 
 .contentz{
